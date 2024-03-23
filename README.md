@@ -1,12 +1,20 @@
-👋 Hi, I’m Tahmid Chowdhury or @tahmidchowdhury21.
-👀 I’m interested in Software Engineering, Mobile, Web, and Application Development.
-🌱 I’ve explored Python and React Native for automating software and building mobile apps.
-💼 Experienced with Python, Java, C++, MySQL, PostgreSQL, Redis, Docker containers, COBOL, Nginx, Ruby on Rails, Ruby, JavaScript, TypeScript, Android Studio & XCode.
+👋 Hi, I’m Tahmid Chowdhury or @tahmidchowdhury21  
 
-🛠️ Proficient in handling SOC environments, incident response, and much more.
+👀 I’m interested in Software Engineering, Cloud Environments, Mobile, Web, and Application Development  
 
-📚 Currently learning Data Structures and Algorithms along with cloud environments.
-📫 Reach me at: tahmidahmed1000@gmail.com.
+🌱 I’ve explored Python and React Native for automating software and building mobile apps  
+
+💼 Experienced with:  
+   - Python, Java, C++, MySQL, PostgreSQL, Redis  
+   - Docker containers, COBOL, Nginx, Ruby on Rails, Ruby  
+   - JavaScript, TypeScript, HTML, CSS, Angular  
+   - Android Studio, TensorFlow, OpenCV
+
+🛠️ Proficient in handling SOC environments, incident response, and more
+
+📚 Currently learning Data Structures and Algorithms along with cloud environments  
+📫 Reach me at: tahmidahmed1000@gmail.com
+
 
 
 <!---
